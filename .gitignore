@@ -1,0 +1,5 @@
+node_modules
+
+#Run Project
+npm i
+npm run dev
